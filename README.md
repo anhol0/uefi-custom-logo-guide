@@ -193,8 +193,7 @@ Open your terminal and type command:
 **It will take longer than reading because it needs to read flash, write to it and verify integrity of the flashed image**  
 
 Everything should go successfully. If you've done everything correctly - you should be able to disconnect programmer from power,   
-detach it from the BIOS chip and reconnect battery to the laptop. First boot might take longer than usual, but as long as everything is done correctly -  
-it should turn on and show you your custom splash image.  
+detach it from the BIOS chip and reconnect battery to the laptop. First boot might take longer than usual, but as long as everything is done correctly - it should turn on and show you your custom splash image.  
 
 **Congratulations!**
 
